@@ -1,0 +1,1 @@
+For homeworks during https://datatalks.club/blog/llm-zoomcamp.html  
